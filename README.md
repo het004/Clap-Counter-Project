@@ -27,4 +27,4 @@ This project uses an 8051 microcontroller and a clap sensor to count claps hands
 3. Clap near the sensor to see the count increment on the display.
 
 ## Video Demonstration
-You can find a video demonstration of the working Clap Counter in the following link: [Video Link]
+You can find a video demonstration of the working Clap Counter in the following link: [[Video Link]](https://drive.google.com/file/d/1W3nXosCOzani83272ICZKfGAWI805GPU/view?usp=drive_link)
